@@ -1,5 +1,7 @@
 # Streamlit Salary Prediction APP
 
+#  EDUNET FOUNDATION - IBM SKILLSBUILD - ARTIFICIAL INTELLIGENCE - 6 WEEKS INTERNSHIP JUNE 2025 BATCH
+
 Employee Salary Prediction RandomForestRegressor Model
 
 ### Web App Link: <a href = "https://employee-salary-prediction-nerktyf5jc2nvoktlyy6x2.streamlit.app/" style = "color: tomato">Click Here To Visit Streamlit Web App</a>🥰📊
